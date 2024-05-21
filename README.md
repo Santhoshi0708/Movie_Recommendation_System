@@ -22,7 +22,7 @@ This project is a web-based application that provides movie recommendations base
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/Santhoshi0708/Movie_Recommendation_System
     ```
 
 2. Navigate to the project directory:
