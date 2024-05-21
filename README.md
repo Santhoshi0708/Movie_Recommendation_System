@@ -8,8 +8,6 @@ This project is a web-based application that provides movie recommendations base
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -68,6 +66,10 @@ You can install all dependencies using:
 pip install -r requirements.txt
 
 ```
+## Preview
+https://github.com/Santhoshi0708/Movie_Recommendation_System/assets/136299190/c7804c01-470c-48fd-bd5e-cad4f8a3c8bf
+
+
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)
 
